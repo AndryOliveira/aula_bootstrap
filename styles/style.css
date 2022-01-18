@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+.navbar {
+    background-color: brown;
+}
+
+h3 {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+h4 {
+    padding-top: 10px;
+}
+
+a.navbar-brand img{
+    width: 200px;
+    height: 80px;
+}
+
+a.menu {
+    font-weight: bold;
+}
+
+div.quem-somos{
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.quem-somos h3 {
+    padding-bottom: 5px;
+}
+
+div.quem-somos img {
+    width: 300px;
+    height: 300px;
+}
+
+div.parceiros {
+    background-color: rgb(54, 235, 226);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.margin {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+section#servicos {
+    background-color: rgb(95, 120, 230);
+}
+
+div.col-lg-4 p {
+    text-align: justify;
+    text-indent: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer.bg-footer {
+    background-color: black;
+    padding-bottom: 30px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer.bg-footer p {
+    padding-top: 30px;
+}
